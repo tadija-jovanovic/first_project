@@ -1,2 +1,5 @@
 Ovo je prvi fajl Tadije Jovanovica.
 Prvi edit.
+
+git config --global user.name "Tvoje Ime"
+git config --global user.email "tvojemail@example.com"
